@@ -172,3 +172,7 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/django
+
+# git remote add origin https://github.com/hsb-ini-14/greatkart-django.git
+# git branch -M main
+# git push -u origin main
